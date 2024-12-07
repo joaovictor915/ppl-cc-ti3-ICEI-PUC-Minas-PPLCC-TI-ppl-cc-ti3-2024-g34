@@ -1,31 +1,26 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: A REALIDADE VIRTUAL COMO FERRAMENTA PARA
+APERFEIÇOAMENTO DO DESEMPENHO E SEGURANÇA
+NO TREINAMENTO ESPORTIVO
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Monteiro Alves
+    given-names: Enzo
+  - family-names: Martins dos Anjos
+    given-names: João Victor
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Meirelles Gouvea Junior
+    given-names: Maury
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+  - family-names: Castro Belém
+    given-names: Felipe
 keywords:
-  - 
-  - 
-repository-code: 
+  - Puc
+  - VR
+  - Esportes
+repository-code: https://github.com/joaovictor915/ppl-cc-ti3-ICEI-PUC-Minas-PPLCC-TI-ppl-cc-ti3-2024-g34
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2024-12-07
